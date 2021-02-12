@@ -1,0 +1,2 @@
+- Ein TCP Server inklusive Client, geschriebn in C
+- Reine Publikatio, übernehme keine Haftung etc. 
